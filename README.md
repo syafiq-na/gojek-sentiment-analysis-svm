@@ -1,4 +1,3 @@
-# gojek-sentiment-analysis-svm
 # Klasifikasi Sentimen Ulasan Aplikasi Gojek Menggunakan Support Vector Machine (SVM)
 
 Repositori ini berisi kode sumber eksperimen dan dataset untuk tugas **Case Method Mata Kuliah Data Mining (Bab 6: Text Mining)** pada Program Studi Informatika, Fakultas Teknologi Informasi dan Sains Data (FATISDA), Universitas Sebelas Maret.
