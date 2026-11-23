@@ -40,3 +40,12 @@ Repositori ini berisi kode sumber eksperimen dan dataset untuk tugas **Case Meth
    ```bash
    git clone [https://github.com/username-kamu/gojek-sentiment-analysis-svm.git](https://github.com/username-kamu/gojek-sentiment-analysis-svm.git)
    cd gojek-sentiment-analysis-svm
+   
+## requirements
+numpy
+pandas
+matplotlib
+seaborn
+prettytable
+PySastrawi
+scikit-learn
